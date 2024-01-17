@@ -13,5 +13,3 @@ Mark: 9,3
 
 ## Time efficiency in searching for optimal moves:
 ![image](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/63247cb8-f2ab-40ba-b2cd-668a2a050c04)
-
-
