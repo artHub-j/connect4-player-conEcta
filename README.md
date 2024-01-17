@@ -9,7 +9,5 @@ Mark: 9,3
 ## Results against classmates
 ![TorneigConecta4](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/03727b8b-bed4-47a6-80ff-97f3e7fb9ee4)
 
-
-
 ## Time efficiency in searching for optimal moves:
 ![image](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/63247cb8-f2ab-40ba-b2cd-668a2a050c04)
