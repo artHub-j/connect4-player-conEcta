@@ -4,7 +4,7 @@ Winner of our class Connect 4 competition.
 Mark: 9,3 
 
 ## Results against player Profe
-![image](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/fffa2b43-d306-470d-97f6-743d0151fbe6)
+![image](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/c35fe24c-8362-4d13-b40e-13e9564e1b77)
 
 ## Results against classmates
 ![TorneigConecta4](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/03727b8b-bed4-47a6-80ff-97f3e7fb9ee4)
