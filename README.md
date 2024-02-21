@@ -3,7 +3,7 @@ Connect4 AI player that uses a minimax algorithm to check for optimal moves.
 Winner of our class Connect 4 competition. Mark: 9,3 
 
 ## Game Preview
-<img src="https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/32d05c60-0ae2-4552-9651-2f4c42514cba" height=450/>
+<img src="https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/32d05c60-0ae2-4552-9651-2f4c42514cba" height=450 width=450/>
 
 ## Results against player Profe
 ![image](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/c35fe24c-8362-4d13-b40e-13e9564e1b77)
