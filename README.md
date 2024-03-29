@@ -15,11 +15,11 @@ Winner of our class Connect 4 competition. Mark: 9,3
 ![image](https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/63247cb8-f2ab-40ba-b2cd-668a2a050c04)
 
 ## Authors
-<table border="6">
+<table border="2">
   <tr>
     <td align="center">
       <a href="https://github.com/artHub-j">
-        <img src="https://github.com/CulturaLink/culturalink-main/assets/92806890/416f28b8-f634-4ce7-ad76-b383863d5774" width="75px;" alt="artHub-j"/><br>
+        <img src="https://github.com/artHub-j/connect4-player-conEcta/assets/92806890/189ebc45-964e-4b22-831c-b261c5a0641d" width="75px;" alt="artHub-j"/><br>
         <sub><b>@artHub-j</b></sub>
       </a><br/>
       <sub>Arturo Aragón</sub>
